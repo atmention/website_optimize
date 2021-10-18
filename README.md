@@ -40,9 +40,9 @@
     <br />
     <a href="https://atmention.github.io/website_optimize/">View Demo</a>
     ·
-    <a href="https://atmention.github.io/website_optimize/issues">Report Bug</a>
+    <a href="https://github.com/atmention/website_optimize/issues">Report Bug</a>
     ·
-    <a href="https://atmention.github.io/website_optimize/issues">Request Feature</a>
+    <a href="https://github.com/atmention/website_optimize/issues">Request Feature</a>
   </p>
 </div>
 
@@ -76,7 +76,7 @@ View the commit history to see the changes made to Horiseon's site, making it mo
 [stars-url]: https://github.com/atmention/website_optimize/stargazers
 [issues-shield]: https://img.shields.io/github/issues/atmention/website_optimize.svg?style=for-the-badge
 [issues-url]: https://github.com/atmention/website_optimize/issues
-[license-shield]: https://img.shields.io/github/license/atmention/website_optimize/.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/atmention/website_optimize.svg?style=for-the-badge
 [license-url]: https://github.com/atmention/website_optimize/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tim-carrier-9a2a9a22/
